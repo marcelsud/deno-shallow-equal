@@ -4,6 +4,8 @@ A port of <a href="https://npmjs.org/package/shallow-equal" target="_blank">shal
 
 If you know you have two arrays or two objects in hand, and you want to know if they are shallowly equal or not, this library is for you.
 
+<a href="https://deno.land/x/shallow_equal" target="_blank">shallow-equal on Deno.land</a>
+
 ## Features
 
 - Super light
